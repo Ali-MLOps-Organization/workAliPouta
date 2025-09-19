@@ -28,3 +28,4 @@ def submit_pipeline():
 if __name__ == "__main__":
     submit_pipeline()
 # Test commit for pipeline execution via GitHub Actions runner
+# Test commit 2 for pipeline after forcing kfp==1.8.2
