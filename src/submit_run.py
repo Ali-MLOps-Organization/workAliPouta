@@ -29,3 +29,5 @@ if __name__ == "__main__":
     submit_pipeline()
 # Test commit for pipeline execution via GitHub Actions runner
 # Test commit 2 for pipeline after forcing kfp==1.8.2
+# Test commit 3 for pipeline. Last fix was not 1.8.2 but 1.8.3. Corrected
+# now.
