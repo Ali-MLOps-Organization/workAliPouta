@@ -31,3 +31,5 @@ if __name__ == "__main__":
 # Test commit 2 for pipeline after forcing kfp==1.8.2
 # Test commit 3 for pipeline. Last fix was not 1.8.2 but 1.8.3. Corrected
 # now.
+# Test commit 4 for pipeline. Changed git runner workflow to install kfp 1.8.2 also.
+
