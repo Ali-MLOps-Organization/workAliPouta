@@ -42,3 +42,4 @@ if __name__ == "__main__":
 # Test commit 12. Fix missing colon in last commit.
 # Test commit 13. Rerun test after pod cleanup inferenceservice wine-quality etc.
 # Test commit 14. After resizing cPouta volume. No pod cleanup.
+# Test commit 15. After clearing pod cleanup inferenceservice wine-quality.
