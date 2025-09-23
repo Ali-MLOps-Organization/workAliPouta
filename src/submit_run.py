@@ -38,3 +38,4 @@ if __name__ == "__main__":
 # Test commit 8. Change runner python to 3.10.
 # Test commit 9. Revert to default python with v2.
 # Test commit 10. Revert to original pip install kfp~=1.8.14"
+# Test commit 11. Change python version to 3.8 to match notebook workflow.
